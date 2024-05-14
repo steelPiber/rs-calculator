@@ -5,7 +5,7 @@
 ## 기능
 
 - `-a [num] [num]` the addition of two numbers 두 수를 더함
--` -s [num] [num]` the subtraction two numbers 두 수를 빼기
+- `-s [num] [num]` the subtraction two numbers 두 수를 빼기
 
 ## 설치
 
