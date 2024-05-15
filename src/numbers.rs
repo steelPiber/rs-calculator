@@ -13,3 +13,6 @@ pub fn sum_numbers(a: i32, b: i32) -> i32 {
 pub fn subtract_numbers(a: i32, b: i32) -> i32 {
     a - b
 }
+pub fn multiplication_numbers(a: i32, b: i32) -> i32 {
+    a * b
+}
